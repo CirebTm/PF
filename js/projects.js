@@ -10,23 +10,23 @@ const projects = [
 		],
 	},
 	{
-		title: "Landing Page",
+		title: "Playstation Fast Links",
 		description: "lorem ipsum numero dos",
 		imageUrl: "front-01.png",
 		technologies: ["Html", "Css"],
 		links: [
-			"https://github.com/web-rest-api/tp1-site",
-			"https://web-rest-api.github.io/tp1-site/",
+			"https://github.com/CirebTm/TP2",
+			"https://cirebtm.github.io/TP2/",
 		],
 	},
 	{
-		title: "Game Manager",
+		title: "Game Protagonist Manager",
 		description: "lorem ipsum numero tres",
 		imageUrl: "game-manager.png",
 		technologies: ["Bootstrap 5", "Javascript"],
 		links: [
-			"https://github.com/web-rest-api/tp-1-bootstrap",
-			"https://web-rest-api.github.io/tp-1-bootstrap/",
+			"https://github.com/CirebTm/TP3",
+			"https://cirebtm.github.io/TP3/",
 		],
 	},
 	{
