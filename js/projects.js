@@ -45,8 +45,8 @@ const projects = [
 		imageUrl: "nodeJs-express.png",
 		technologies: ["NodeJs", "Express"],
 		links: [
-			"https://replit.com/@MartinPedraza/node-expess#index.js",
-			"https://node-expess.martinpedraza.repl.co/",
+			"https://github.com/MonsieurLife/projet5",
+			"https://monsieurlife.github.io/",
 		],
 	},
 ]
