@@ -11,8 +11,8 @@ const projects = [
 	},
 	{
 		title: "Playstation Fast Links",
-		description: "lorem ipsum numero dos",
-		imageUrl: "front-01.png",
+		description: "Entrez dans le monde de Playstation !",
+		imageUrl: "psn.jng",
 		technologies: ["Html", "Css"],
 		links: [
 			"https://github.com/CirebTm/TP2",
@@ -21,8 +21,8 @@ const projects = [
 	},
 	{
 		title: "Game Protagonist Manager",
-		description: "lorem ipsum numero tres",
-		imageUrl: "game-manager.png",
+		description: "Une selection des meilleures protagonistes feminins du jeux video",
+		imageUrl: "Wprotagonist.jpg",
 		technologies: ["Bootstrap 5", "Javascript"],
 		links: [
 			"https://github.com/CirebTm/TP3",
@@ -35,8 +35,8 @@ const projects = [
 		imageUrl: "favorite-books.png",
 		technologies: ["Bootstrap 5", "Javascript", "Resful API"],
 		links: [
-			"https://github.com/web-rest-api/tp3-bootstrap-api",
-			"https://web-rest-api.github.io/tp4-bootstrap-api/",
+			"https://github.com/MonsieurLife/projet4",
+			"https://monsieurlife.github.io/projet4/",
 		],
 	},
 	{
