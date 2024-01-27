@@ -21,7 +21,7 @@ const projects = [
 	},
 	{
 		title: "Game Protagonist Manager",
-		description: "Une selection des meilleures protagonistes feminins du jeux video",
+		description: "Une selection des meilleures protagonistes féminins du monde du jeu video",
 		imageUrl: "Wprotagonist.jpg",
 		technologies: ["Bootstrap 5", "Javascript"],
 		links: [
