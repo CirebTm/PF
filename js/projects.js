@@ -12,7 +12,7 @@ const projects = [
 	{
 		title: "Playstation Fast Links",
 		description: "Entrez dans le monde de Playstation !",
-		imageUrl: "psn.jng",
+		imageUrl: "psn.jpg",
 		technologies: ["Html", "Css"],
 		links: [
 			"https://github.com/CirebTm/TP2",
