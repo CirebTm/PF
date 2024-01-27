@@ -42,7 +42,7 @@ const projects = [
 	{
 		title: "Users",
 		description: "Uthentication API",
-		imageUrl: "nodeJs-express.png",
+		imageUrl: "DZ.PNG",
 		technologies: ["NodeJs", "Express"],
 		links: [
 			"https://github.com/MonsieurLife/projet5",
