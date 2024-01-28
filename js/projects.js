@@ -1,11 +1,11 @@
 const projects = [
 	{
 		title: "Python Flask",
-		description: "lorem ipsum numero uno",
-		imageUrl: "flask-api.png",
+		description: "Une API sur le jeu video",
+		imageUrl: "app.png",
 		technologies: ["Python", "Restful API"],
 		links: [
-			"https://replit.com/@MartinPedraza/basic-rest-flask#main.py",
+			"https://github.com/MonsieurLife/projet1",
 			"https://basic-rest-flask.martinpedraza.repl.co/",
 		],
 	},
@@ -31,7 +31,7 @@ const projects = [
 	},
 	{
 		title: "Favorite Books",
-		description: "lorem ipsum numero tres",
+		description: "Une API avec un Frontend ",
 		imageUrl: "favorite-books.png",
 		technologies: ["Bootstrap 5", "Javascript", "Resful API"],
 		links: [
@@ -41,7 +41,7 @@ const projects = [
 	},
 	{
 		title: "Users",
-		description: "Uthentication API",
+		description: "Node Js et le Backend",
 		imageUrl: "DZ.PNG",
 		technologies: ["NodeJs", "Express"],
 		links: [
